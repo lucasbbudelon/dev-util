@@ -46,6 +46,7 @@ Ferramentas online que ajudam no desenvolvimeno de software.
 - [edx](https://www.edx.org/)
 - [freecodecamp](https://www.freecodecamp.org/)
 - [angular-tutorial](https://angular.io/tutorial) - tour of heroes app and tutorial
+- [rafaeljeffman](https://rafaeljeffman.com/) - algorithms and data structure
 
 ## mix
 - [markdown-cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
