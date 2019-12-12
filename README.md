@@ -18,6 +18,7 @@ Ferramentas online que ajudam no desenvolvimeno de software.
 ## backend
 - [start-spring](https://start.spring.io/) - create apps by template
 - [HTTP-status-code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+- [json-server](https://github.com/typicode/json-server) - api's RESTFULL with node
 
 ## bash
 - [tip-colors-and-formatting](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
